@@ -2,7 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=ramandixit13&color=79b8ff)
 
 <img src="https://raw.githubusercontent.com/ramandixit13/ramandixit13/master/GITHUB_1.png" alt="banner that says Raman Dixit - software engineer, content creator and community organizer alongside a illustration of Raman">
-I'm a software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup) and GraphQL.
+I'm a software engineer who is passionate about making consumer friendly applications, creating technology to elevate people, and building community. Some technologies I enjoy working with include Android App Development in Java and Kotlin, and building scalable D2C Apps.
 
 |<img src="https://github-readme-stats.vercel.app/api?username=ramandixit13&&show_icons=true&count_private=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=ramandixit13"/>|
 |---|---|
